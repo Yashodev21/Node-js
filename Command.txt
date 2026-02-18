@@ -1,0 +1,3 @@
+Write NPM command to install package only.
+
+npm install package-name
